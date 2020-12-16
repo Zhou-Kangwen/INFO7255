@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.searchbox:jest:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/searchbox/jest/unknown/jest-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/searchbox/jest/unknown/jest-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/searchbox/jest/unknown/jest-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
